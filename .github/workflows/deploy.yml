@@ -1,7 +1,7 @@
 # This GitHub actions was inspired from
 # https://github.com/plippe/breathe/blob/main/.github/workflows/deploy-github-pages.yml
 
-name: CD-CI Rust WASM
+name: Deploy Rust WASM App
 
 on:
   workflow_dispatch:

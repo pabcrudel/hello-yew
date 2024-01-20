@@ -21,7 +21,7 @@ fn App() -> Html {
 
   // Like in React, this component returns an HTML
   html! {
-    <div>
+    <>
       <header>
         <h1>{"Hello Yew"}</h1>
       </header>
@@ -34,7 +34,7 @@ fn App() -> Html {
           <p>{ *counter }</p>
         </div>
       </main>
-    </div>
+    </>
   }
 }
 

@@ -22,6 +22,10 @@ jobs:
   ci-cd:
     runs-on: ubuntu-latest
     name: Build & Deploy
+
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout files
         uses: actions/checkout@v3

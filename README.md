@@ -1,6 +1,7 @@
 # Hello Yew
 
-Web App made in `Rust` with [Yew](https://yew.rs/)
+`Rust-generated` [WebAssembly](https://webassembly.org/) App with
+[Yew](https://yew.rs/).
 
 ## The reason behind this project
 

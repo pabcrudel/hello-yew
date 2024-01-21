@@ -8,7 +8,7 @@
 I just started learning `Rust` and I read on their website that you can [build
 WebAssembly with it](https://www.rust-lang.org/what/wasm). I searched on
 the internet and I found `Yew`, a framework to do so in a way that reminds me
-of React. So i decided to take a look.
+of `React`. So i decided to take a look.
 
 ## Sample Counter App
 
